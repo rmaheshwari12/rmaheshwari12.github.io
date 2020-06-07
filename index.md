@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -283,19 +282,4 @@ function toggleFunction() {
 </script>
 
 </body>
-</html>
-
-
-
-
-<html>
-	<head>
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-
-		<title>rmaheshwari12.github.io</title>
-	</head>
-	<body>
-		<h1>Hello Data Enthusiast !</h1>
-		<p> </p>
-	</body>
 </html>
