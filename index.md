@@ -39,7 +39,7 @@ body, html {
   min-height: 400px;
 }
 
-.w3-wide {letter-spacing: 6px;}
+.w3-wide {letter-spacing: 3px;}
 .w3-hover-opacity {cursor: pointer;}
 
 /* Turn off parallax scrolling for tablets and phones */
@@ -106,7 +106,7 @@ body, html {
   <p class="w3-large w3-center w3-padding-16">Im really good at:</p>
   <p class="w3-wide"><i class="fa fa-camera"></i>Requirements Gathering</p>
   <div class="w3-light-grey">
-    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:90%">90%</div>
+    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:80%">80%</div>
   <p>Travelling Onsite, CPO,CFO meets</p>
   </div>
   <p class="w3-wide"><i class="fa fa-laptop"></i>Machine Learning</p>
