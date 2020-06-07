@@ -23,7 +23,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('/w3images/parallax1.jpg');
+  background-image: url('../../images/DSC_0471 - Copy.JPG');
   min-height: 100%;
 }
 
