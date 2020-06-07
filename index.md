@@ -95,7 +95,7 @@ body, html {
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
       <p><b><i class="fa fa-user w3-margin-right"></i>Rushikesh Maheshwari</b></p><br>
-      <img src="/images/DSC_0471 - Copy.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
+      <img src="../../images/DSC_0471 - Copy.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
     </div>
 
     <!-- Hide this text on small devices -->
@@ -107,13 +107,14 @@ body, html {
   <p class="w3-wide"><i class="fa fa-camera"></i>Requirements Gathering</p>
   <div class="w3-light-grey">
     <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:80%">80%</div>
-  <p>Travelling Onsite, CPO,CFO meets</p>
+	<p>Travelling Onsite, CPO,CFO meets</p>
   </div>
   <p class="w3-wide"><i class="fa fa-laptop"></i>Machine Learning</p>
   <div class="w3-light-grey">
     <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:75%">75%</div>
+	<p>Regression, Classification, Bagging and Boosting Algorithms, Clustering</p>
   </div>
-  <p class="w3-wide"><i class="fa fa-photo"></i>Statistical Modelling</p>
+  <p class="w3-wide"><i class="fa fa-graph"></i>Statistical Modelling</p>
   <div class="w3-light-grey">
     <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:75%">75%</div>
   </div>
