@@ -30,7 +30,7 @@ body, html {
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("C:\Users\rushi\OneDrive\Documents\GitHub\rmaheshwari12.github.io\images\DSC_0471 - Copy.JPG");
+  background-image: url("/images/DSC_0471 - Copy.JPG");
   min-height: 400px;
 }
 
