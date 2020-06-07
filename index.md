@@ -30,7 +30,7 @@ body, html {
 /* Second image (Portfolio) */
 .bgimg-2 {
   background-image: url("../../images/DSC_0471 - Copy.JPG");
-  min-height: 400px;
+  min-height: 200px;
 }
 
 /* Third image (Contact) */
