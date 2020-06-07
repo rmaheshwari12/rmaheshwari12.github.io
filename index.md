@@ -30,7 +30,7 @@ body, html {
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("/w3images/parallax2.jpg");
+  background-image: url("/DSC_0471 - Copy.jpg");
   min-height: 400px;
 }
 
