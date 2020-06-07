@@ -30,7 +30,7 @@ body, html {
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("/DSC_0471 - Copy.jpg");
+  background-image: url("C:\Users\rushi\OneDrive\Documents\GitHub\rmaheshwari12.github.io\images\DSC_0471 - Copy.JPG");
   min-height: 400px;
 }
 
@@ -99,9 +99,7 @@ body, html {
 
     <!-- Hide this text on small devices -->
     <div class="w3-col m6 w3-hide-small w3-padding-large">
-      <p>Welcome to my website. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor
-        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p>I enjoy unpacking complex problems with parcimonious solutions with aid of data-driven decisions. I you are looking for someone who is quick on his feet, who can translate business problems into technical frameworks</p>
     </div>
   </div>
   <p class="w3-large w3-center w3-padding-16">Im really good at:</p>
@@ -298,6 +296,6 @@ function toggleFunction() {
 	</head>
 	<body>
 		<h1>Hello Data Enthusiast !</h1>
-		<p>I enjoy unpacking complex problems with parcimonious solutions with aid of data-driven decisions. I you are looking for someone who is quick on his feet, who can translate business problems into technical frameworks </p>
+		<p> </p>
 	</body>
 </html>
