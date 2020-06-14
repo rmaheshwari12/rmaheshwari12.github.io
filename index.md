@@ -23,7 +23,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('../static/images/me.jpg');
+  background-image: url('/static/images/me.jpg');
   min-height: 100%;
 }
 
