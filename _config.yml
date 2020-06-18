@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 title                    : "Rushikesh Maheshwari"
-title_separator          : "-"
+title_separator          : "Budding artist, learning the art of data science!"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Rushikesh Maheshwari"
-description              : "Data science is an art and I am a budding artist!"
+description              : "Data Science Portfolio "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : rmaheshwari12/rmaheshwari12.github.io #GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Rushikesh Maheshwari"
   avatar           : "./assets/images/me.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Data Science Portfolio"
   location         : "Tampa, Florida"
   email            :
   links:
@@ -105,6 +105,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rmaheshwari12.github.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rushikesh-maheshwari12/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/rushimhaya"
@@ -117,6 +120,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/rushi_kesh_chan"
+
 
 # Site Footer
 footer:
