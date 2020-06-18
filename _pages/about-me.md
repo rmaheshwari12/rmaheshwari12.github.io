@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: "About"
 permalink: /about/
 last_modified_at: 2020-06-12
 header:
-	image : "./images/beach.jpg"
+	image: "./images/beach.jpg"
 ---
 
 
