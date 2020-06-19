@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Rushikesh Maheshwari"
-  avatar           : "./images/me.jpg"
+  avatar           : /images/me.jpg
   bio              : "Data Science Portfolio"
   location         : "Tampa, Florida"
   email            :
