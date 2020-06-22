@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 last_modified_at: 2020-06-12
 header:
-    image: /images/home.jpg
+    image: /images/home1.jpg
 
 
 ---
