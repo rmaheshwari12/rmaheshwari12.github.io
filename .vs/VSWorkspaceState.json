@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_data",
+    "\\_pages"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_pages\\splash-page.md",
   "PreviewInSolutionExplorer": false
 }
